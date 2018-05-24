@@ -1,7 +1,15 @@
 <?xml version="1.0"?>
+<!--
+/*
+ * @package    SussexDev_CustomRoute
+ * @copyright  Copyright (c) 2018 Scott Parsons
+ * @license    https://github.com/ScottParsons/module-customroute/blob/master/LICENSE.md
+ * @version    1.0.0
+ */
+ -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
-        <tab id="sussexdev" translate="label" sortOrder="340">
+        <tab id="sussexdev" translate="label" sortOrder="750">
             <label>Sussex Dev</label>
         </tab>
         <section id="customroute" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
