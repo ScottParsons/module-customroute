@@ -1,4 +1,10 @@
 <?php
+/*
+ * @package    SussexDev_CustomRoute
+ * @copyright  Copyright (c) 2018 Scott Parsons
+ * @license    https://github.com/ScottParsons/module-customroute/blob/master/LICENSE.md
+ * @version    1.0.0
+ */
 namespace SussexDev\CustomRoute\Controller\Index;
 
 use Magento\Framework\App\Action\Context;
