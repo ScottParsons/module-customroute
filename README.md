@@ -26,4 +26,4 @@ $ php bin/magento cache:clean
 
 ## Usage
 
-In the admin, head to ```Stores -> Configuration -> Sussex Dev -> Custom Route```
+In the admin, head to ```Stores -> Configuration -> Sussex Dev -> Custom Route``` and activate the module.

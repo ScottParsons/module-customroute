@@ -4,7 +4,7 @@
  * @package    SussexDev_CustomRoute
  * @copyright  Copyright (c) 2018 Scott Parsons
  * @license    https://github.com/ScottParsons/module-customroute/blob/master/LICENSE.md
- * @version    1.0.0
+ * @version    1.0.1
  */
  -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
