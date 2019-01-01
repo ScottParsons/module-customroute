@@ -3,7 +3,7 @@
  * @package    SussexDev_CustomRoute
  * @copyright  Copyright (c) 2019 Scott Parsons
  * @license    https://github.com/ScottParsons/module-customroute/blob/master/LICENSE.md
- * @version    1.0.1
+ * @version    1.0.2
  */
 namespace SussexDev\CustomRoute\Helper;
 

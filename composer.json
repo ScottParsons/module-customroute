@@ -1,7 +1,7 @@
 {
   "name": "sussexdev/module-customroute",
   "description": "A Magento 2 module demonstrating how to add and configure a dynamic route from the admin.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "type": "magento2-module",
   "repositories": [
